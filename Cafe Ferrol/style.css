@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+
+body {
+  margin: 0;
+  padding: 80px 16px;
+  min-height: 160px;
+  background: url("https://images.unsplash.com/photo-1485498128961-422168ba5f87") no-repeat center center;
+  background-size: cover;
+
+}
+.menu-wrap{
+  margin: 0 auto;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 400px;
+  background-color: white;
+  box-shadow:40px 40px 80px -40px rgba(50, 50, 80, 0.4) ;
+}
+header{
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+}
+
+header h4{
+  margin: 0;
+  font-size: 40px;
+  color:#FF5722;
+}
+.table-menu{
+  margin:40px 0 0 0;
+  width: 100%;
+  font-family: 'Questrial', sans-serif;
+  font-size: 24px;
+  color: #455A64;
+  line-height: 40px;
+}
+
+
+
+
+
+
+
+   <tr>
+  <td class="left">
+
+  </td>
+  <td class="right">
+
+  </td>
+</tr>
