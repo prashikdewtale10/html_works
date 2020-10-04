@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ECEFF1;
+}
+.business_card{
+	margin: 40px auto;
+	background-color:white;
+	padding:40px;
+	width: 240px; 
+	border-radius: 8px;
+	box-shadow: 0 16px 32px -16px #B0BEC5;
+	text-align: center;
+}
+.img{
+	width: 100%;
+}
+.profile_name{
+	color: green;
+	font-weight: 900;
+}
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+	font-size: 16px;
+	line-height:18px;
+
+
+}
+li{
+
+	text-align: center;
+	 font-size: 16px;
+  line-height:18px;
+  color: #455A64;
+  font-family: 'Courier Prime', monospace;
+
+}
+.mail{
+text-align: center;
+}
