@@ -1,0 +1,45 @@
+body {
+  background-color: #ECEFF1;
+}
+.container{
+  margin: 80px auto;
+  max-width: 400px;
+
+}
+.table_receipt{
+  border-collapse: collapse;
+  width: 100px;
+  background-color: white;
+  box-shadow: 40px 40px 80px -8px #B0BEC5;
+
+}
+.table_receipt th{
+  padding:24px;
+  width:100px;
+  color: white;
+  background-color: #2196F3;
+  font-size:24px ;
+}
+.table_receipt td{
+  padding: 24px 16px;
+  border-bottom:2px solid #ECEFF1;
+
+}
+.table_receipt .t-label{
+  font-size: 16px;
+font-weight: 700;
+color:#78909C;
+}
+.table_receipt .t-price{
+  font-size: 24px;
+  text-align: right;
+}
+.table_receipt .t-footer{
+  padding:24px;
+  border-bottom: 0;
+  font-size: 16;
+  color:#2196F3;
+  font-weight: 700;
+  text-align: center;
+}
+
